@@ -1,5 +1,5 @@
 # My-calculator-
-# It is my first GitHub project and I am a python learner
+ It is my first GitHub project and I am a python learner
 
 
 num1 = int(input("give a value:"))
